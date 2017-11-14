@@ -1,2 +1,2 @@
-# Listado de módulos para curso Odoo
+# Listado de módulos
 Esto es una prueba
